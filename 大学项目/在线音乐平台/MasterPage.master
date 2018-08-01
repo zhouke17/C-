@@ -1,0 +1,121 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 41px;
+            margin-bottom: 0px;
+        }
+        .auto-style2 {
+            width: 180px;
+        }
+        .auto-style3 {
+            font-size: xx-large;
+            width: 875px;
+        }
+        .auto-style4 {
+            letter-spacing: 2px;
+            text-align: center;
+            font-size: larger;
+        }
+        .auto-style5 {
+            text-align: right;
+        }
+        .auto-style6 {
+            font-size: xx-large;
+            height: 55px;
+        }
+        .auto-style7 {
+            text-align: right;
+            height: 16px;
+        }
+        .auto-style8 {
+            font-size: xx-large;
+            width: 880px;
+            }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" rowspan="3">
+                    <asp:Image ID="Image1" runat="server" Height="128px" ImageUrl="~/图片/0130391F4554EFD7E19FBD16DD90C4C365B1B4-5F12-07BF-4A5F-AAC2C96BBE0D.jpg" style="color: #00FF00; background-color: #66FF33" Width="144px" />
+                </td>
+                <td class="auto-style6" style="color: #FFFFFF; background-color: #00CC66" colspan="5">
+                    <h1 class="auto-style4"><strong>软酷在线音乐平台
+                        </strong></h1>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+                   <a href="firstpage.aspx" style="color: #FFFFFF">首页</a>
+                </td>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+                    <a href="singers.aspx" style="color: #FFFFFF">歌手</a>
+                </td>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+                    <a href="rankinglist.aspx" style="color: #FFFFFF">榜单</a>
+                </td>
+                <td class="auto-style8" style="color: #FFFFFF; background-color: #00CC66">
+                    <a href="classify.aspx" style="color: #FFFFFF">分类</a>
+                </td>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+                   <a href="searchmusic.aspx"><img src="图片/97r58PICZDi_1024.jpg" style="height: 46px; width: 52px" /></a>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+        
+            <asp:Menu ID="Menu1" runat="server" BackColor="#F7F6F3" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#7C6F57" StaticSubMenuIndent="10px">
+                <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="#F7F6F3" />
+                <DynamicSelectedStyle BackColor="#5D7B9D" />
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/firstpage.aspx" Text="主页" Value="主页">
+                        <asp:MenuItem NavigateUrl="~/registermember.aspx" Text="注册" Value="注册"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/firstpage.aspx" Text="返回主页" Value="返回主页"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/loginmember.aspx" Text="登录" Value="登录"></asp:MenuItem>
+                </Items>
+                <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <StaticSelectedStyle BackColor="#5D7B9D" />
+            </asp:Menu>
+        
+                </td>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+                </td>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+                </td>
+                <td class="auto-style8" style="color: #FFFFFF; background-color: #00CC66">
+                </td>
+                <td class="auto-style3" style="color: #FFFFFF; background-color: #00CC66">
+                    <strong><a href="loginmember.aspx"><img src="图片/QQ截图20160831090150.png" /></a></strong></td>
+            </tr>
+        </table>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <table class="auto-style1">
+        <tr>
+            <td class="auto-style7">关于我们|AboutRuanko|服务条款|客服中心</td>
+        </tr>
+        <tr>
+            <td class="auto-style5">Copyright©Ruankosoft.Technologeies(shenzhen)cCo.,Ltd</td>
+        </tr>
+    </table>
+</body>
+</html>

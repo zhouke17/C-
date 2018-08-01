@@ -1,0 +1,21 @@
+E:\code data\可编程计算器\可编程计算器\可编程计算器\bin\Debug\可编程计算器.exe.config
+E:\code data\可编程计算器\可编程计算器\可编程计算器\bin\Debug\可编程计算器.exe
+E:\code data\可编程计算器\可编程计算器\可编程计算器\bin\Debug\可编程计算器.pdb
+E:\code data\可编程计算器\可编程计算器\可编程计算器\obj\Debug\可编程计算器.csprojResolveAssemblyReference.cache
+E:\code data\可编程计算器\可编程计算器\可编程计算器\obj\Debug\可编程计算器.Properties.Resources.resources
+E:\code data\可编程计算器\可编程计算器\可编程计算器\obj\Debug\可编程计算器.计算器.resources
+E:\code data\可编程计算器\可编程计算器\可编程计算器\obj\Debug\可编程计算器.csproj.GenerateResource.Cache
+E:\code data\可编程计算器\可编程计算器\可编程计算器\obj\Debug\可编程计算器.exe
+E:\code data\可编程计算器\可编程计算器\可编程计算器\obj\Debug\可编程计算器.pdb
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\可编程计算器\可编程计算器\bin\Debug\可编程计算器.exe.config
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\可编程计算器\可编程计算器\obj\Debug\可编程计算器.exe
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\可编程计算器\可编程计算器\obj\Debug\可编程计算器.pdb
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\bin\Debug\可编程计算器.exe.config
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\obj\Debug\可编程计算器.exe
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\obj\Debug\可编程计算器.pdb
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\bin\Debug\可编程计算器.exe
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\bin\Debug\可编程计算器.pdb
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\obj\Debug\可编程计算器.csprojResolveAssemblyReference.cache
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\obj\Debug\可编程计算器.Properties.Resources.resources
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\obj\Debug\可编程计算器.计算器.resources
+F:\360安全下载\360浏览器下载\可编程计算器\可编程计算器\obj\Debug\可编程计算器.csproj.GenerateResource.Cache

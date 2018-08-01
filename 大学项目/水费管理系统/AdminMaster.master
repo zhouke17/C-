@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminMaster.master.cs" Inherits="AdminMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            font-size: larger;
+        }
+        .auto-style3 {
+            height: 85px;
+        }
+    </style>
+</head>
+<body>
+    <table class="auto-style1">
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-decoration: underline; background-color: #0066FF">
+                <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="auto-style2">水 费 收 费 系 统</span></h1>
+            </td>
+        </tr>
+    </table>
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style3">
+        
+            <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" style="font-size: large">
+                <Items>
+                    <asp:MenuItem NavigateUrl="AddUser.aspx" Text="添加收费员" Value="添加收费员"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="ModUser.aspx" Text="修改收费员" Value="修改收费员"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Login.aspx" Text="退出" Value="退出"></asp:MenuItem>
+                    <asp:MenuItem></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+        
+                </td>
+            </tr>
+        </table>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

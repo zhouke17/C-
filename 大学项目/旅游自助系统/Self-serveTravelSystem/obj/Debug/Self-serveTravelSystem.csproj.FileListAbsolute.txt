@@ -1,0 +1,33 @@
+d:\documents\visual studio 2012\Projects\Self-serveTravelSystem\Self-serveTravelSystem\bin\Self-serveTravelSystem.dll
+d:\documents\visual studio 2012\Projects\Self-serveTravelSystem\Self-serveTravelSystem\bin\Self-serveTravelSystem.pdb
+d:\documents\visual studio 2012\Projects\Self-serveTravelSystem\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Self-serveTravelSystem\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.dll
+d:\documents\visual studio 2012\Projects\Self-serveTravelSystem\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.pdb
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\周珂\Self-serveTravelSystem\Self-serveTravelSystem\bin\Self-serveTravelSystem.dll
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\周珂\Self-serveTravelSystem\Self-serveTravelSystem\bin\Self-serveTravelSystem.pdb
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\周珂\Self-serveTravelSystem\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.dll
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\周珂\Self-serveTravelSystem\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.pdb
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\真作业着呢好\Self-serveTravelSystem\bin\Self-serveTravelSystem.dll
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\真作业着呢好\Self-serveTravelSystem\bin\Self-serveTravelSystem.pdb
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\真作业着呢好\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.dll
+D:\腾讯QQ\聊天记录\1204684011\FileRecv\真作业着呢好\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.pdb
+F:\360安全下载\360浏览器下载\真作业无双\Self-serveTravelSystem\bin\Self-serveTravelSystem.dll
+F:\360安全下载\360浏览器下载\真作业无双\Self-serveTravelSystem\bin\Self-serveTravelSystem.pdb
+F:\360安全下载\360浏览器下载\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.csprojResolveAssemblyReference.cache
+F:\360安全下载\360浏览器下载\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.dll
+F:\360安全下载\360浏览器下载\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.pdb
+G:\大三下学期\软件工程\第三组大作业\真作业无双\真作业无双\Self-serveTravelSystem\bin\Self-serveTravelSystem.dll
+G:\大三下学期\软件工程\第三组大作业\真作业无双\真作业无双\Self-serveTravelSystem\bin\Self-serveTravelSystem.pdb
+G:\大三下学期\软件工程\第三组大作业\真作业无双\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.dll
+G:\大三下学期\软件工程\第三组大作业\真作业无双\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.pdb
+G:\大三下学期\软件工程\第三组大作业\真作业无双\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.csprojResolveAssemblyReference.cache
+G:\大三下学期\软件工程\第三组大作业\真作业无双2.1\真作业无双\Self-serveTravelSystem\bin\Self-serveTravelSystem.dll
+G:\大三下学期\软件工程\第三组大作业\真作业无双2.1\真作业无双\Self-serveTravelSystem\bin\Self-serveTravelSystem.pdb
+G:\大三下学期\软件工程\第三组大作业\真作业无双2.1\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.csprojResolveAssemblyReference.cache
+G:\大三下学期\软件工程\第三组大作业\真作业无双2.1\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.dll
+G:\大三下学期\软件工程\第三组大作业\真作业无双2.1\真作业无双\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.pdb
+E:\旅游自助系统\Self-serveTravelSystem\bin\Self-serveTravelSystem.dll
+E:\旅游自助系统\Self-serveTravelSystem\bin\Self-serveTravelSystem.pdb
+E:\旅游自助系统\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.csprojResolveAssemblyReference.cache
+E:\旅游自助系统\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.dll
+E:\旅游自助系统\Self-serveTravelSystem\obj\Debug\Self-serveTravelSystem.pdb

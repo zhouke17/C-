@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1(1)", "http://localhost:1376", "{75DA8756-504D-4BA2-B3C5-568AA5F2FA11}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1376"
+		Debug.AspNetCompiler.PhysicalPath = "D:\WebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1376\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1376"
+		Release.AspNetCompiler.PhysicalPath = "D:\WebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1376\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\WebSite1\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1(2)", "http://localhost:2732", "{C15449B7-C4DF-49B5-8DFD-8FFC3E59EFDA}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_2732"
+		Debug.AspNetCompiler.PhysicalPath = "D:\网站\WebSites\WebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2732\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_2732"
+		Release.AspNetCompiler.PhysicalPath = "D:\网站\WebSites\WebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2732\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\网站\WebSites\WebSite1\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "时光流影", "http://localhost:2854", "{88A1666B-CFDA-4C81-BDA9-9C0CD59B5192}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_2854"
+		Debug.AspNetCompiler.PhysicalPath = "D:\网站\WebSites\时光流影\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2854\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_2854"
+		Release.AspNetCompiler.PhysicalPath = "D:\网站\WebSites\时光流影\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2854\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\网站\WebSites\时光流影\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DA8756-504D-4BA2-B3C5-568AA5F2FA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DA8756-504D-4BA2-B3C5-568AA5F2FA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15449B7-C4DF-49B5-8DFD-8FFC3E59EFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15449B7-C4DF-49B5-8DFD-8FFC3E59EFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A1666B-CFDA-4C81-BDA9-9C0CD59B5192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A1666B-CFDA-4C81-BDA9-9C0CD59B5192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

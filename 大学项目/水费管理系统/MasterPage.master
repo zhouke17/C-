@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html>
+
+<script runat="server">
+
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            height: 20px;
+        }
+        .auto-style4 {
+            font-size: larger;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <h1 style="background-color: #0066FF"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="auto-style4">水 费 收 费 系 统</span></strong></h1>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+                    <asp:Menu ID="Menu1" runat="server" BackColor="#FFFBD6" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000" Orientation="Horizontal" StaticSubMenuIndent="10px" style="font-size: large">
+                        <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicMenuStyle BackColor="#FFFBD6" />
+                        <DynamicSelectedStyle BackColor="#FFCC66" />
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/AddClient.aspx" Text="用户开户" Value="用户开户"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PayFee.aspx" Text="用户交费" Value="用户交费"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PayRecord.aspx" Text="交费记录" Value="交费记录"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/ModClient.aspx" Text="修改信息" Value="新建项"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Login.aspx" Text="退出" Value="退出"></asp:MenuItem>
+                        </Items>
+                        <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <StaticSelectedStyle BackColor="#FFCC66" />
+                    </asp:Menu>
+                </td>
+            </tr>
+        </table>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
